@@ -170,7 +170,7 @@ INS_EMB_NPY  = None  # e.g., "insurance_sent_emb.npy"
 
 rows, sampled_companies = topk_sentence_matches(
     companies_df, insurance_df, model,
-    k=10, sample_n=20, seed=42,
+    k=10, sample_n=20, seed=22,
     cache_comp_path=COMP_EMB_NPY,
     cache_ins_path=INS_EMB_NPY,
 )

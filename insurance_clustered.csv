@@ -1,0 +1,221 @@
+label,cluster_hdbscan
+Agricultural Equipment Services,1
+Soil Nutrient Application Services,1
+Pesticide Application Services,1
+Ornamental Plant Nurseries,1
+Landscaping Services,17
+Gardening Services,1
+Tree Services - Pruning / Removal,6
+Veterinary Services,3
+Veterinary Clinics,3
+Pet Boarding Services,3
+Animal Day Care Services,3
+Pet Grooming Services,3
+Animal Training Services,3
+Veterinary Health Centers,3
+Animal Trainers,3
+Livestock Dealer Services,3
+Timber Harvesting Operations,-1
+Fishing and Hunting Services,3
+Well Maintenance Services,25
+Field Welding Services,15
+Sand and Gravel Mining,24
+Residential Driveway Construction,24
+Commercial Driveway Construction,24
+Fencing Construction Services,-1
+Sidewalk Construction Services,24
+Commercial Irrigation Systems,26
+Residential Drainage Systems,26
+Residential Snow Removal,17
+Commercial Snow Removal,17
+General Snow Removal Services,17
+Land Leveling Services,17
+Residential Drain Cleaning,26
+Commercial Drain Cleaning,26
+Street Cleaning Operations,17
+Conveyor System Installation,0
+Low-Rise Signage Installation,27
+High-Rise Signage Installation,27
+Tank Installation Services,18
+Residential Communication Equipment Installation,20
+Commercial Communication Equipment Installation,20
+Low-Rise Glass Installation,27
+High-Rise Glass Installation,27
+Industrial Machinery Installation,0
+Agricultural Machinery Installation,0
+Grain Handling Machinery Installation,0
+Dock and Pier Construction,24
+Road and Highway Construction,24
+Road Maintenance Services,17
+Pipeline Construction Services,23
+New Ground Pipeline Installation,23
+Excavation Services,24
+Residential Plumbing Services,25
+Commercial Plumbing Services,25
+Industrial Plumbing Services,25
+Boiler Installation Services,18
+Boiler Repair Services,-1
+Steam Services,-1
+Gas Installation Services,18
+Medical Gas Installation Services,18
+Fire Protection System Services,-1
+HVAC Installation and Service,18
+HVAC Inspections,-1
+Air Duct Cleaning Services,-1
+Water Treatment Services,-1
+Residential Electrical Services,19
+Commercial Electrical Services,19
+Alarm Installation Services,20
+Electric Line Construction,19
+Cable Installation Services,20
+Elevator Installation Services,20
+Low-Rise Foundation Construction,28
+High-Rise Foundation Construction,28
+Precast Concrete Installation,28
+Tilt-Up Concrete Services,28
+Masonry Construction Services,30
+Drywall Services,29
+Tile Installation Services,20
+Carpentry Services,15
+Millwork Services,15
+General Handyman Services,29
+Insulation Services,31
+Painting Services,8
+Spray Painting Services,8
+Flooring Installation Services,20
+Interior Design Services,8
+Home Staging Services,30
+Sheet Metal Services,15
+Welding Services,15
+Structural Steel Erection,-1
+Non-Structural Steel Fabrication,2
+Windows and Doors Installation,0
+Well Drilling Services,23
+Directional Drilling Services,23
+Infrastructure Excavation,24
+New Ground Excavation,24
+Residential Roofing Services,31
+Roofing Services with Heat Application,31
+Waterproofing Services,-1
+Septic System Services,-1
+Building Cleaning Services,29
+Fire Safety Equipment Services,-1
+Testing and Inspection Services,14
+Single Family Residential Construction,30
+Single Family Renovation Services,31
+Multi-Family Construction Services,30
+Apartment Renovation Services,31
+Restoration Services,14
+Mobile Home Construction Services,30
+Commercial Construction Services,30
+Commercial Renovation Services,31
+Swimming Pool Installation Services,-1
+Swimming Pool Maintenance Services,-1
+Vacant Building Management,-1
+Vacant Land Services,-1
+Meat Processing Services,7
+Seafood Processing Services,11
+Dairy Production Services,7
+Frozen Food Processing,11
+Ice Production Services,17
+Canning Services,12
+Animal Feed Manufacturing,7
+Pet Food Manufacturing,7
+Grain Processing Services,1
+Coffee Processing Services,12
+Seed Processing Services,1
+Bakery Production Services,12
+Confectionery Manufacturing,2
+Distilling Services,1
+Brewery Operations,12
+Non-Alcoholic Beverage Manufacturing,2
+Oil and Fat Manufacturing,2
+Rendering Services,21
+Textile Manufacturing Services,4
+Carpet Manufacturing Services,4
+Apparel Manufacturing,2
+Accessory Manufacturing,2
+Children's Clothing Manufacturing,2
+Window Treatment Manufacturing,2
+Canvas Manufacturing,2
+Rope Production Services,4
+Tent Manufacturing Services,4
+Wood Product Manufacturing,2
+Window and Door Manufacturing,2
+Cabinetry Manufacturing,2
+Trim Manufacturing,2
+Pallet Manufacturing,2
+Furniture Manufacturing,2
+Bedding Manufacturing,2
+Paper Production Services,5
+Stationery Manufacturing,2
+Publishing Services,22
+Printing Services,5
+Gas Manufacturing Services,-1
+Ink Production Services,5
+Plastic Manufacturing,2
+Cosmetic Manufacturing,2
+Soap Production Services,16
+Chemical Manufacturing,2
+Asphalt Production Services,17
+Rubber Manufacturing,2
+Plastic Signage Production,2
+Media Production Services,22
+Software Manufacturing,2
+Food Processing Services,11
+Pharmaceutical Manufacturing,2
+Laboratory Services,-1
+Waste Management Services,6
+Recycling Services,6
+Environmental Consulting,14
+Property Management Services,-1
+Real Estate Services,-1
+Insurance Services,14
+Financial Services,14
+Legal Services,14
+Consulting Services,10
+Marketing Services,9
+Human Resources Services,14
+Management Consulting,10
+Business Development Services,16
+Project Management Services,16
+Technology Consulting,10
+Software Development Services,16
+Data Analysis Services,16
+Market Research Services,9
+Strategic Planning Services,10
+Training Services,13
+Public Relations Services,9
+Event Planning Services,10
+Catering Services,11
+Travel Services,9
+Digital Marketing Services,9
+E-Commerce Services,9
+Online Marketing Services,9
+Content Creation Services,22
+Website Development Services,16
+SEO Services,9
+Social Media Services,9
+Branding Services,21
+Graphic Design Services,21
+Advertising Services,9
+Corporate Training Services,10
+Health and Safety Consulting,14
+Food Safety Services,-1
+Quality Assurance Services,14
+Compliance Services,14
+Environmental Health Services,13
+Risk Assessment Services,14
+Crisis Management Services,14
+Community Engagement Services,13
+Stakeholder Services,10
+Corporate Responsibility Services,10
+Fundraising Services,10
+Volunteer Services,13
+Non-Profit Management,10
+Arts Services,-1
+Sports Management Services,10
+Fitness Coaching,13
+Health Promotion Services,13
+Physical Therapy Services,13
+Occupational Health Services,13
