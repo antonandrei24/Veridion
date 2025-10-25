@@ -1,221 +1,221 @@
 label,cluster_hdbscan
-Agricultural Equipment Services,1
-Soil Nutrient Application Services,1
-Pesticide Application Services,1
-Ornamental Plant Nurseries,1
-Landscaping Services,17
-Gardening Services,1
+Agricultural Equipment Services,5
+Soil Nutrient Application Services,5
+Pesticide Application Services,5
+Ornamental Plant Nurseries,5
+Landscaping Services,14
+Gardening Services,5
 Tree Services - Pruning / Removal,6
-Veterinary Services,3
-Veterinary Clinics,3
-Pet Boarding Services,3
-Animal Day Care Services,3
-Pet Grooming Services,3
-Animal Training Services,3
-Veterinary Health Centers,3
-Animal Trainers,3
-Livestock Dealer Services,3
+Veterinary Services,8
+Veterinary Clinics,8
+Pet Boarding Services,8
+Animal Day Care Services,8
+Pet Grooming Services,8
+Animal Training Services,8
+Veterinary Health Centers,8
+Animal Trainers,8
+Livestock Dealer Services,8
 Timber Harvesting Operations,-1
-Fishing and Hunting Services,3
-Well Maintenance Services,25
-Field Welding Services,15
-Sand and Gravel Mining,24
-Residential Driveway Construction,24
-Commercial Driveway Construction,24
-Fencing Construction Services,-1
-Sidewalk Construction Services,24
-Commercial Irrigation Systems,26
-Residential Drainage Systems,26
-Residential Snow Removal,17
-Commercial Snow Removal,17
-General Snow Removal Services,17
-Land Leveling Services,17
-Residential Drain Cleaning,26
-Commercial Drain Cleaning,26
-Street Cleaning Operations,17
+Fishing and Hunting Services,8
+Well Maintenance Services,27
+Field Welding Services,9
+Sand and Gravel Mining,25
+Residential Driveway Construction,25
+Commercial Driveway Construction,25
+Fencing Construction Services,25
+Sidewalk Construction Services,25
+Commercial Irrigation Systems,23
+Residential Drainage Systems,23
+Residential Snow Removal,14
+Commercial Snow Removal,14
+General Snow Removal Services,14
+Land Leveling Services,14
+Residential Drain Cleaning,23
+Commercial Drain Cleaning,23
+Street Cleaning Operations,14
 Conveyor System Installation,0
-Low-Rise Signage Installation,27
-High-Rise Signage Installation,27
-Tank Installation Services,18
+Low-Rise Signage Installation,18
+High-Rise Signage Installation,18
+Tank Installation Services,21
 Residential Communication Equipment Installation,20
 Commercial Communication Equipment Installation,20
-Low-Rise Glass Installation,27
-High-Rise Glass Installation,27
+Low-Rise Glass Installation,18
+High-Rise Glass Installation,18
 Industrial Machinery Installation,0
 Agricultural Machinery Installation,0
 Grain Handling Machinery Installation,0
-Dock and Pier Construction,24
-Road and Highway Construction,24
-Road Maintenance Services,17
-Pipeline Construction Services,23
-New Ground Pipeline Installation,23
-Excavation Services,24
-Residential Plumbing Services,25
-Commercial Plumbing Services,25
-Industrial Plumbing Services,25
-Boiler Installation Services,18
-Boiler Repair Services,-1
+Dock and Pier Construction,25
+Road and Highway Construction,25
+Road Maintenance Services,14
+Pipeline Construction Services,22
+New Ground Pipeline Installation,22
+Excavation Services,25
+Residential Plumbing Services,27
+Commercial Plumbing Services,27
+Industrial Plumbing Services,27
+Boiler Installation Services,21
+Boiler Repair Services,28
 Steam Services,-1
-Gas Installation Services,18
-Medical Gas Installation Services,18
+Gas Installation Services,21
+Medical Gas Installation Services,21
 Fire Protection System Services,-1
-HVAC Installation and Service,18
+HVAC Installation and Service,-1
 HVAC Inspections,-1
 Air Duct Cleaning Services,-1
-Water Treatment Services,-1
+Water Treatment Services,23
 Residential Electrical Services,19
 Commercial Electrical Services,19
 Alarm Installation Services,20
 Electric Line Construction,19
 Cable Installation Services,20
 Elevator Installation Services,20
-Low-Rise Foundation Construction,28
-High-Rise Foundation Construction,28
-Precast Concrete Installation,28
-Tilt-Up Concrete Services,28
-Masonry Construction Services,30
-Drywall Services,29
+Low-Rise Foundation Construction,18
+High-Rise Foundation Construction,18
+Precast Concrete Installation,18
+Tilt-Up Concrete Services,18
+Masonry Construction Services,26
+Drywall Services,26
 Tile Installation Services,20
-Carpentry Services,15
-Millwork Services,15
-General Handyman Services,29
-Insulation Services,31
-Painting Services,8
-Spray Painting Services,8
+Carpentry Services,9
+Millwork Services,9
+General Handyman Services,26
+Insulation Services,26
+Painting Services,4
+Spray Painting Services,4
 Flooring Installation Services,20
-Interior Design Services,8
-Home Staging Services,30
-Sheet Metal Services,15
-Welding Services,15
-Structural Steel Erection,-1
-Non-Structural Steel Fabrication,2
-Windows and Doors Installation,0
-Well Drilling Services,23
-Directional Drilling Services,23
-Infrastructure Excavation,24
-New Ground Excavation,24
-Residential Roofing Services,31
-Roofing Services with Heat Application,31
-Waterproofing Services,-1
-Septic System Services,-1
-Building Cleaning Services,29
+Interior Design Services,4
+Home Staging Services,26
+Sheet Metal Services,9
+Welding Services,9
+Structural Steel Erection,18
+Non-Structural Steel Fabrication,3
+Windows and Doors Installation,-1
+Well Drilling Services,22
+Directional Drilling Services,22
+Infrastructure Excavation,25
+New Ground Excavation,25
+Residential Roofing Services,26
+Roofing Services with Heat Application,26
+Waterproofing Services,28
+Septic System Services,23
+Building Cleaning Services,26
 Fire Safety Equipment Services,-1
-Testing and Inspection Services,14
-Single Family Residential Construction,30
-Single Family Renovation Services,31
-Multi-Family Construction Services,30
-Apartment Renovation Services,31
-Restoration Services,14
-Mobile Home Construction Services,30
-Commercial Construction Services,30
-Commercial Renovation Services,31
-Swimming Pool Installation Services,-1
-Swimming Pool Maintenance Services,-1
-Vacant Building Management,-1
-Vacant Land Services,-1
-Meat Processing Services,7
-Seafood Processing Services,11
-Dairy Production Services,7
-Frozen Food Processing,11
-Ice Production Services,17
-Canning Services,12
-Animal Feed Manufacturing,7
-Pet Food Manufacturing,7
-Grain Processing Services,1
-Coffee Processing Services,12
-Seed Processing Services,1
-Bakery Production Services,12
-Confectionery Manufacturing,2
-Distilling Services,1
-Brewery Operations,12
-Non-Alcoholic Beverage Manufacturing,2
-Oil and Fat Manufacturing,2
-Rendering Services,21
-Textile Manufacturing Services,4
-Carpet Manufacturing Services,4
-Apparel Manufacturing,2
-Accessory Manufacturing,2
-Children's Clothing Manufacturing,2
-Window Treatment Manufacturing,2
-Canvas Manufacturing,2
-Rope Production Services,4
-Tent Manufacturing Services,4
-Wood Product Manufacturing,2
-Window and Door Manufacturing,2
-Cabinetry Manufacturing,2
-Trim Manufacturing,2
-Pallet Manufacturing,2
-Furniture Manufacturing,2
-Bedding Manufacturing,2
-Paper Production Services,5
-Stationery Manufacturing,2
-Publishing Services,22
-Printing Services,5
+Testing and Inspection Services,-1
+Single Family Residential Construction,26
+Single Family Renovation Services,26
+Multi-Family Construction Services,26
+Apartment Renovation Services,26
+Restoration Services,29
+Mobile Home Construction Services,26
+Commercial Construction Services,26
+Commercial Renovation Services,26
+Swimming Pool Installation Services,28
+Swimming Pool Maintenance Services,28
+Vacant Building Management,26
+Vacant Land Services,26
+Meat Processing Services,11
+Seafood Processing Services,16
+Dairy Production Services,11
+Frozen Food Processing,16
+Ice Production Services,14
+Canning Services,17
+Animal Feed Manufacturing,11
+Pet Food Manufacturing,11
+Grain Processing Services,5
+Coffee Processing Services,17
+Seed Processing Services,5
+Bakery Production Services,17
+Confectionery Manufacturing,-1
+Distilling Services,5
+Brewery Operations,17
+Non-Alcoholic Beverage Manufacturing,-1
+Oil and Fat Manufacturing,3
+Rendering Services,12
+Textile Manufacturing Services,2
+Carpet Manufacturing Services,2
+Apparel Manufacturing,3
+Accessory Manufacturing,3
+Children's Clothing Manufacturing,3
+Window Treatment Manufacturing,3
+Canvas Manufacturing,3
+Rope Production Services,2
+Tent Manufacturing Services,2
+Wood Product Manufacturing,3
+Window and Door Manufacturing,3
+Cabinetry Manufacturing,3
+Trim Manufacturing,3
+Pallet Manufacturing,3
+Furniture Manufacturing,3
+Bedding Manufacturing,3
+Paper Production Services,1
+Stationery Manufacturing,3
+Publishing Services,12
+Printing Services,1
 Gas Manufacturing Services,-1
-Ink Production Services,5
-Plastic Manufacturing,2
-Cosmetic Manufacturing,2
-Soap Production Services,16
-Chemical Manufacturing,2
-Asphalt Production Services,17
-Rubber Manufacturing,2
-Plastic Signage Production,2
-Media Production Services,22
-Software Manufacturing,2
-Food Processing Services,11
-Pharmaceutical Manufacturing,2
+Ink Production Services,1
+Plastic Manufacturing,3
+Cosmetic Manufacturing,3
+Soap Production Services,13
+Chemical Manufacturing,3
+Asphalt Production Services,14
+Rubber Manufacturing,3
+Plastic Signage Production,3
+Media Production Services,12
+Software Manufacturing,3
+Food Processing Services,16
+Pharmaceutical Manufacturing,3
 Laboratory Services,-1
 Waste Management Services,6
 Recycling Services,6
-Environmental Consulting,14
+Environmental Consulting,30
 Property Management Services,-1
 Real Estate Services,-1
-Insurance Services,14
-Financial Services,14
-Legal Services,14
-Consulting Services,10
-Marketing Services,9
-Human Resources Services,14
-Management Consulting,10
-Business Development Services,16
-Project Management Services,16
-Technology Consulting,10
-Software Development Services,16
-Data Analysis Services,16
-Market Research Services,9
-Strategic Planning Services,10
-Training Services,13
-Public Relations Services,9
-Event Planning Services,10
-Catering Services,11
-Travel Services,9
-Digital Marketing Services,9
-E-Commerce Services,9
-Online Marketing Services,9
-Content Creation Services,22
-Website Development Services,16
-SEO Services,9
-Social Media Services,9
-Branding Services,21
-Graphic Design Services,21
-Advertising Services,9
-Corporate Training Services,10
-Health and Safety Consulting,14
+Insurance Services,29
+Financial Services,29
+Legal Services,30
+Consulting Services,15
+Marketing Services,7
+Human Resources Services,30
+Management Consulting,15
+Business Development Services,13
+Project Management Services,13
+Technology Consulting,15
+Software Development Services,13
+Data Analysis Services,13
+Market Research Services,7
+Strategic Planning Services,15
+Training Services,10
+Public Relations Services,7
+Event Planning Services,15
+Catering Services,16
+Travel Services,7
+Digital Marketing Services,7
+E-Commerce Services,7
+Online Marketing Services,7
+Content Creation Services,12
+Website Development Services,13
+SEO Services,7
+Social Media Services,7
+Branding Services,12
+Graphic Design Services,12
+Advertising Services,7
+Corporate Training Services,30
+Health and Safety Consulting,30
 Food Safety Services,-1
-Quality Assurance Services,14
-Compliance Services,14
-Environmental Health Services,13
-Risk Assessment Services,14
-Crisis Management Services,14
-Community Engagement Services,13
-Stakeholder Services,10
-Corporate Responsibility Services,10
-Fundraising Services,10
-Volunteer Services,13
-Non-Profit Management,10
-Arts Services,-1
-Sports Management Services,10
-Fitness Coaching,13
-Health Promotion Services,13
-Physical Therapy Services,13
-Occupational Health Services,13
+Quality Assurance Services,-1
+Compliance Services,30
+Environmental Health Services,10
+Risk Assessment Services,30
+Crisis Management Services,30
+Community Engagement Services,10
+Stakeholder Services,24
+Corporate Responsibility Services,24
+Fundraising Services,24
+Volunteer Services,10
+Non-Profit Management,24
+Arts Services,4
+Sports Management Services,15
+Fitness Coaching,10
+Health Promotion Services,10
+Physical Therapy Services,10
+Occupational Health Services,10

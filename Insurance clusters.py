@@ -24,7 +24,7 @@ embeddings = model.encode(insurance_texts, show_progress_bar=True, convert_to_nu
 
 # 3. Dimensionality reduction (optional, but helps clustering)
 print("Reducing dimensions with UMAP...")
-umap_reducer = umap.UMAP(n_neighbors=15, n_components=10, random_state=42)
+umap_reducer = umap.UMAP(n_neighbors=15, min_dist=0.0, n_components=10, random_state=42)
 embeddings_2d = umap_reducer.fit_transform(embeddings)
 
 # 4a. Option A — KMeans (simple baseline)
